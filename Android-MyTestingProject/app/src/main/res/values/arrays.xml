@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="cource_titles">
+      <item>Android 1st Cource</item>
+      <item>Android 2nd Cource</item>
+      <item>Android 3rd Cource</item>
+      <item>Android 4th Cource</item>
+      <item>Android 5th Cource</item>
+  </string-array>
+
+    <string-array name="cource_descriptions">
+        <item>1st Cource description</item>
+        <item>2nd Cource description</item>
+        <item>3rd Cource description</item>
+        <item>4th Cource description</item>
+        <item>5th Cource description</item>
+    </string-array>
+</resources>
